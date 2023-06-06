@@ -1,0 +1,4 @@
+SAMPLE USAGE:
+
+
+python findPrime.py 39
